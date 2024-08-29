@@ -1,3 +1,5 @@
+# Credits -> github.com/connerde
+
 import os
 import sys
 import traceback, types
